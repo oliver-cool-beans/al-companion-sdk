@@ -6,7 +6,8 @@ const validFields = ["acx","age","aheight","awidth","alpha","animations","apierc
   "emx","esize","evasion","explosion","fear","fireresistance","for","fx","fzresistance","gold","goldm","i","in","int","isize","items","j","last_fear","last_ms","lifesteal","luckm","m",
   "manasteal","map","max_xp","mcourage","miss","mp_cost","mp_reduction","name","pcourage","ping","pnresistance","pzazz","real_x","real_y","reflection","rpiercing","stand","str","stun","stype",
   "targets","tax","vit","xcx","xpm","xrange","afk","angle","c","cid","controller","ctype","cx","focus","frequency","hp","id","level","max_hp",
-  "max_mp","mp","owner","party","pdps","q","range","resistance","rip","s","skin","slots","speed","target","x","y","xp","cash","critdamage","going_x","going_y","move_num","moving","type"]
+  "max_mp","mp","owner","party","pdps","q","range","resistance","rip","s","skin","slots","speed","target","x","y","xp","cash","critdamage","going_x","going_y","move_num","moving","type",
+  "serverData"]
 
 export default class Companion {
   #config
